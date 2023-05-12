@@ -1,0 +1,52 @@
+body {
+	background-color: black;
+	background-image: url("mainlogo.png");
+	background-position: right;
+	background-repeat: space;
+
+}
+
+button {
+	padding: 20px;
+	margin: 20px;
+	border-radius: 5px;
+	border: 2px solid #f44336;
+}
+
+p {
+	color: white;
+	font-family: monospace, courier new;
+}
+h1 {
+	color: white;
+	background-color: #bf18e7;
+}
+h2 {
+	color: white;
+}
+form {
+	display: flex;
+	flex-direction: column;
+	max-width: 500px;
+	margin: 0 auto;
+}
+
+label {
+	margin-bottom: 10px;
+}
+
+input[type="text"], input[type="email"], textarea {
+	padding: 10px;
+	margin-bottom: 20px;
+	border-radius: 5px;
+	border: none;
+}
+
+input[type="submit"] {
+	background-color: #333;
+	color: #fff;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}

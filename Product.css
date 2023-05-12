@@ -1,0 +1,45 @@
+h1 {
+	text-align: center;
+	font-size: 40;
+	padding: 20;
+	margin: 10px;
+	color: white;
+	background-color:  #bf18e7;
+}
+body {
+	background-image: url("mainlogo.png");
+	background-repeat: space;
+	background-position: center;
+	background-blend-mode: overlay;
+	background-color: black;
+
+}
+
+button {
+	color: blue;
+	display: flex;
+	justify-content: center;
+	font-size: 25px;
+	margin: 28;
+	padding: 5px;
+	border-radius: 5px;
+	border: 2px solid #f44336;
+
+}
+p {
+	font-family: monospace, lucida console;
+	padding: 5px;
+	margin: 5px
+	font-size: 20px;
+	color: white;
+	background-color: black;
+}
+h3 {
+	font-size: 20px;
+	color: white;
+	padding:3px;
+	margin:3px;
+	background-color:  #bf18e7;
+}
+
+
