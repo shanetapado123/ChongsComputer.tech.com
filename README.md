@@ -1,1 +1,2 @@
-# ChongsComputer.tech.co - just type this on search bar
+# ChongsComputer.tech.com 
+just type this on search bar
